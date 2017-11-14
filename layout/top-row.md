@@ -7,7 +7,7 @@ The keys used in this lesson are:
 * `STPH A U FPLT`
 * `1234 5 5 4321`
 
-The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
+The numbers show the fingers for each key, where 1s are the pinkies and 5s are the thumbs.
 
 {% stenodisplay labels="STPHAUFPLT" %}
 STPHAUFPLT
